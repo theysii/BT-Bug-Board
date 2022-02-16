@@ -1,4 +1,4 @@
-# Battle Tanks Bug-Board
+# Battle Tanks Bugtracker
 
 The place for all bugs, issues and problems regarding the Battle Tanks map for Warcraft 3.
 
@@ -23,14 +23,14 @@ This depends upon the type of bug. If you're reporting an issue which is known b
 
 - Do not bump.
 
-The bug board is not a forum in which old threads get buried by the new ones – we regularly look through all reports, both old and new. Creating a duplicate report because the existing one "is too old" is pointless and so is "bumping" old reports with meaningless comments.
+The bugtracker is not a forum in which old threads get buried by the new ones – we regularly look through all reports, both old and new. Creating a duplicate report because the existing one "is too old" is pointless and so is "bumping" old reports with meaningless comments.
 
 - If contradicted by staff, don't press the point without evidence.
 
 If a developer or staff member asserts that a certain feature of the game is working as intended, and you happen to disagree, please acquire proof which demonstrates that the staff member in question is incorrect before posting in the issue topic again.
 - Do not whine for fixes.
 
-The bug board is an instrument of the devs. As a player, you may report problems there and provide clarification and assistance with testing if needed. Do not ask "when this will be fixed" or "anything new on this?" (these questions can be asked by devs but for different reasons) – if devs are not fixing something then there is a solid reason for that and when they fix something it will be mentioned in the report or patchnotes. Do not post with "Please fix" in your report either.
+The bugtracker is an instrument of the devs. As a player, you may report problems there and provide clarification and assistance with testing if needed. Do not ask "when this will be fixed" or "anything new on this?" (these questions can be asked by devs but for different reasons) – if devs are not fixing something then there is a solid reason for that and when they fix something it will be mentioned in the report or patchnotes. Do not post with "Please fix" in your report either.
 
 - Use the relevant keywords and spell them correctly.
 
