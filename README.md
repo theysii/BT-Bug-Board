@@ -17,8 +17,6 @@ Due to the current state of the project, very small issues are not of great impo
 
 You can search the bugtracker for keywords in order to verify that the bug you're posting wasn't already reported. Please do so to avoid creating work for the bugtracker's managers. A closed report means only one thing – the devs consider the report either to be fixed or false. this does not means that the report was consumed by Chaos and lost forever. If you have something to say about a closed report, comment on it, we'll take a look and reopen it if needed. Do not create duplicate reports stating "I created / noticed report ABC, and it got closed, but the problem is still here because X and Y".
 
-- Do not post well-known issues that are within the realm of game / technical support.
-
 - Supply as much evidence as possible.
 
 This depends upon the type of bug. If you're reporting an issue which is known by many players, you won't need to provide as much evidence. However, if you're reporting a bug in a core, often-used aspect of the game, which could be met with disbelief from the staff, please ensure that you provide the appropriate evidence, be it in screenshot, video format or replay
