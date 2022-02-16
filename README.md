@@ -1,8 +1,10 @@
 # Battle Tanks Bug-Board
 
-The place for all bugs, problems and issues regarding the Battle Tanks map for Warcraft 3.
+The place for all bugs, issues and problems regarding the Battle Tanks map for Warcraft 3.
 
 Official [Battle Tanks Website](https://btanks.net/) and [Battle Tanks Discord](https://discord.gg/FbbGbHj).
+
+
 
 ### Getting started
 Verify that it's a bug of sufficient importance and that it's not due to a lack of feature implementation.
