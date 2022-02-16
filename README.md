@@ -1,3 +1,7 @@
+##### Battle Tanks Bug-Board
+
+
+
 ### Getting started
 Verify that it's a bug of sufficient importance and that it's not due to a lack of feature implementation.
 Due to the current state of the project, very small issues are not of great importance to the team and they tend to clog up the bug lists. Additionally, problems which are clearly the result of a lack of implementation at the present time (such as the land of the dead access) and not due to a bug in the RoR code are not of interest to us.
